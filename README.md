@@ -22,5 +22,5 @@ main class to suit the most important things.
   - Savegames for players, text-based for easier configuring
   - Item system with assorted and respective commands
   
-# Preview
-![Alt text](preview/server preview.png?raw=true "Logged in and ready")
+# Preview 
+![Screenshot](preview/server preview.png)

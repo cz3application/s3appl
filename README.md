@@ -23,4 +23,4 @@ main class to suit the most important things.
   - Item system with assorted and respective commands
   
 # Preview
-Please visit the preview folder for a small preview of the server in action!
+![Alt text](preview/server preview.png?raw=true "Logged in and ready")

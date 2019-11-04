@@ -1,0 +1,7 @@
+username:mod czar
+password:czar
+rights:0
+absx:3222
+absy:3218
+height:0
+null

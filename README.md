@@ -23,4 +23,4 @@ main class to suit the most important things.
   - Item system with assorted and respective commands
   
 # Preview 
-![Screenshot](preview/server preview.png)
+![alt tag](https://github.com/cz3application/s3appl/blob/master/preview/server%20preview.png)
